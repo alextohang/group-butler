@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '545986269:AAGKZf2WY-JIkH1_vc2SJidY45WMtQCKTcE',
+	bot_api_key = '',
 	time_offset = 0,
 	admin = 376108292,
 	channel = '@sumaterans', --channel username with the '@'
